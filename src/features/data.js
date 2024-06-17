@@ -1,0 +1,43 @@
+export const POSTS = [
+  {
+    id: 'Article',
+    title: 'What if famous brands had regular fonts_ Meet RegulaBrands!',
+    desc: 'I’ve worked in UX for the better part of a decade. From now on, I plan to rei…',
+    personImg: 'pic4.png',
+    personName: 'Sarthak Kamra',
+    views: '1.4k',
+    date: '',
+    place: '',
+  },
+  {
+    id: 'Education',
+    title:
+      'Tax Benefits for Investment under National Pension Scheme launched by Government',
+    desc: 'I’ve worked in UX for the better part of a decade. From now on, I plan to rei…',
+    personImg: 'pic3.png',
+    personName: 'Sarah West',
+    views: '1.4k',
+    date: '',
+    place: '',
+  },
+  {
+    id: 'Meetup',
+    title: 'Finance & Investment Elite Social Mixer @Lujiazui',
+    desc: '',
+    personImg: 'pic1.png',
+    personName: 'Ronal Jones',
+    views: '1.4k',
+    date: 'Fri 12 Oct 2018',
+    place: 'Ahmedabad India',
+  },
+  {
+    id: 'Job',
+    title: 'Software Developer',
+    desc: '',
+    personImg: 'pic2.png',
+    personName: 'Joseph Gray',
+    views: '1.4k',
+    date: 'Fri 12 Oct 2018',
+    place: 'Noida India',
+  },
+];
