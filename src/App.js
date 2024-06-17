@@ -9,7 +9,7 @@ function App() {
     <div className="container-fluid">
       <NavBar />
       <div>
-        <img className="img-lg" src="./images/cse-eng.png" alt="cse-pic" />
+        <img className="img-lg img-fluid" src="./images/cse-eng.png" alt="cse-pic" />
       </div>
 
       <div className="container">
